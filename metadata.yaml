@@ -1,10 +1,16 @@
 _repo: The-Age-of-Elizabeth-1547-1603_49633
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49633-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Esdaile, Arundell James Kennedy
     gutenberg_agent_id: '45456'
     url: http://www.gutenberg.org/2009/agents/45456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49633#The-Age-of-Elizabeth-1547-1603
 gutenberg_issued: '2015-08-06'
 gutenberg_type: Text
 identifiers:
